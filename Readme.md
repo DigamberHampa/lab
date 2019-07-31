@@ -1,4 +1,4 @@
 Java
 Mysql
 Tomcat
-HTTPD
+Nginx
